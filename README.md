@@ -19,7 +19,7 @@ Instead of just printing static text, I wanted to build something interactive th
 # 👤 Author
 Created by: [ Youssef Hassan Abdalla ]
 
-Project Name: Clickaya Initiative / ATM Beginner Project
+Project Name: ATMBeginner Project
 
 Find me on: [ https://github.com/v27whh ]
 
